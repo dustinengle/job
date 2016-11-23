@@ -1,0 +1,3 @@
+
+PLUGIN = 'Job'
+VERSION = 1
